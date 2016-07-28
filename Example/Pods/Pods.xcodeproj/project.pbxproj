@@ -55,7 +55,6 @@
 		AFD0D1C76099BDE25808B55C3BF61519 /* Pods-MyPodLib_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyPodLib_Example-umbrella.h"; sourceTree = "<group>"; };
 		C3E4336E0DD188ED9680D34FD16E3148 /* MyPodLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyPodLib-prefix.pch"; sourceTree = "<group>"; };
 		C68008EF1D4A43F80048AE7E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		C68008F21D4A54270048AE7E /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		CD80614CACEC823D4A1E4B7B555B0FE4 /* Pods-MyPodLib_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyPodLib_Tests-dummy.m"; sourceTree = "<group>"; };
 		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CFEC2696C9C50136C324998BB84C0206 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
@@ -118,7 +117,6 @@
 		2850854BCB35D501619856A341AAD3A0 /* MyPodLib */ = {
 			isa = PBXGroup;
 			children = (
-				C68008F11D4A54270048AE7E /* Assets */,
 				48CE51D141C137F1B02B049D8FBA8BBF /* Classes */,
 			);
 			path = MyPodLib;
@@ -208,14 +206,6 @@
 				3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		C68008F11D4A54270048AE7E /* Assets */ = {
-			isa = PBXGroup;
-			children = (
-				C68008F21D4A54270048AE7E /* .gitkeep */,
-			);
-			path = Assets;
 			sourceTree = "<group>";
 		};
 		D88F578B1102E60058220296DE1CAD2D /* Pods-MyPodLib_Tests */ = {

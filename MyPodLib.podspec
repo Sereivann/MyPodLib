@@ -32,9 +32,9 @@ Long description for MyPodLib :  is a test pod lib for SYO.
 
   s.source_files = 'MyPodLib/Classes/**/*'
   
-  s.resource_bundles = {
-     'MyPodLib' => ['MyPodLib/Assets/*.png']
-  }
+# s.resource_bundles = {
+#   'MyPodLib' => ['MyPodLib/Assets/*.png']
+# }
 
   s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit'
