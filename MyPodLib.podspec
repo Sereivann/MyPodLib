@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyPodLib'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'MyPodLib is a test pod lib for SYO'
 
 # This description is used to generate tags and improve search results.
