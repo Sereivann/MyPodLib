@@ -1,0 +1,16 @@
+PODS:
+  - MyPodLib (0.1.0)
+
+DEPENDENCIES:
+  - MyPodLib (from `../`)
+
+EXTERNAL SOURCES:
+  MyPodLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyPodLib: 377f0e6b6a8768d250ac8c484963517eb3ba5fa2
+
+PODFILE CHECKSUM: b656d3010f10d7e5d5055758d4cc33864327164a
+
+COCOAPODS: 1.1.0.beta.1

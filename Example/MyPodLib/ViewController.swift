@@ -7,12 +7,14 @@
 //
 
 import UIKit
+import MyPodLib
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        var v_replaceMe = ReplaceMe()
     }
 
     override func didReceiveMemoryWarning() {
